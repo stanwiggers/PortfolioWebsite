@@ -1,4 +1,4 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/stanwiggers/netlifywebsite1.github.io.git
+[submodule "themes/almeida-cv"]
+	path = themes/almeida-cv
+	url = https://github.com/ineesalmeida/almeida-cv
 	branch = main
