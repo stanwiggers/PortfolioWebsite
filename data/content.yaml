@@ -4,7 +4,7 @@ BasicInfo:
   Photo: img/avatar2.jpg
   Contacts:
     - Icon: fas fa-phone
-      Info: +316 53121505
+      Info: /
     - Icon: fas fa-envelope
       Info: stanbenjaminwiggers@gmail.com
     - Icon: fas fa-globe
